@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.license = 'MIT'
   s.platform = Gem::Platform::RUBY
   s.authors = ['Tim Craft']
-  s.email = ['mail@timcraft.com']
+  s.email = ['email@timcraft.com']
   s.homepage = 'https://github.com/timcraft/noko'
   s.description = 'Ruby client for the Noko API'
   s.summary = 'See description'
